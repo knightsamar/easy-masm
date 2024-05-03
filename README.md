@@ -28,3 +28,5 @@ Detailed information on Easy-MASM has been moved to [this website](https://jere-
 ## See Easy-MASM in Action
 
 ![easy-masm](https://user-images.githubusercontent.com/47261508/150897022-f96b097d-8246-435c-8caf-37eb6949b10f.gif)
+
+A test addition
